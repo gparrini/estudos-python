@@ -1,0 +1,9 @@
+li:hover {
+  color: red;
+}
+li:first-child {
+  font-weight:bold ;
+}
+li:nth-child(2) {
+  color: blue;
+}
