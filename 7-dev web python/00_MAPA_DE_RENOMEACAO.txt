@@ -1,0 +1,203 @@
+=============================================================
+            MAPA DE REESTRUTURAÇÃO COMPLETA DE AULAS         
+=============================================================
+[Arquivo 001] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 4. Configurações do Projeto e Instalação do Flask
+[Arquivo 002] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 5. Criando seu 1º Site com Flask
+[Arquivo 003] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 6. Explicando os Decorators e Páginas Estáticas e Dinâmicas
+[Arquivo 004] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 7. Criando templates HTML
+[Arquivo 005] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 8. Como funciona HTML
+[Arquivo 006] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 9. Base Visual das Páginas e Integrando arquivos HTML
+[Arquivo 007] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 10. Usando Bootstrap no nosso site
+[Arquivo 008] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 11. Puxando Informações de Forma Dinâmica do Python para o Site
+[Arquivo 009] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 12. Criando Barra de Navegação
+[Arquivo 010] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 13. Padronizando Links do Site
+[Arquivo 011] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 14. Criando Página de Login e Criar Conta
+[Arquivo 012] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 16. Segurança dos Formulários no Site
+[Arquivo 013] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 17. Adicionando Formulários no HTML
+[Arquivo 014] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 18. Aplicando Bootstrap nos Formulários
+[Arquivo 015] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 19. Liberando Método Post das Páginas
+[Arquivo 016] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 20. csrf token e Mensagem de Sucesso nos Formulários
+[Arquivo 017] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 21. Validações dos Campos dos Formulários
+[Arquivo 018] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 22. Banco de Dados para o Site
+[Arquivo 019] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 23. Criação das Tabelas do Banco de Dados
+[Arquivo 020] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 24. Relacionamento entre Posts e Usuários
+[Arquivo 021] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 26. Reestruturando o Projeto
+[Arquivo 022] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 27. Criando usuário no banco de dados com nosso formulário
+[Arquivo 023] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 28. Criptografando a Senha do Usuário
+[Arquivo 024] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 29. Criando validação Personalizada - Usuários Únicos
+[Arquivo 025] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 30. Login dos Usuários
+[Arquivo 026] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 31. Personalizando o Site para Usuários Logados
+[Arquivo 027] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 32. Bloquear Página para Usuários Visitantes
+[Arquivo 028] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 33. Redirecionamento Automático Inteligente
+[Arquivo 029] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 34. Editando a Página de Perfil - HTML e CSS
+[Arquivo 030] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 35. Carregando a imagem padrão de Perfil
+[Arquivo 031] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 36. Edição do Perfil
+[Arquivo 032] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 37. Funcionalidade do Formulário de Editar Perfil
+[Arquivo 033] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 38. Campo de Edição de Foto de Perfil
+[Arquivo 034] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 39. Salvar e Compactar Imagem no Banco de Dados
+[Arquivo 035] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 40. Revisando o Site e Adicionando Cursos no Form do Perfil
+[Arquivo 036] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 41. Editando o Campo Cursos do Banco de Dados
+[Arquivo 037] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 42. Exibindo os Cursos do Usuário
+[Arquivo 038] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 43. Preenchendo Lista de Usuários do Banco de Dados
+[Arquivo 039] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 44. Permitir a Criação de Post
+[Arquivo 040] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 45. Ajeitando a HomePage - Feed de Posts
+[Arquivo 041] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 46. Terminando Edição dos Posts
+[Arquivo 042] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 47. Uma Página para cada Post
+[Arquivo 043] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 48. Criando Edição do Post
+[Arquivo 044] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 49. Data de Criação, Editar e Excluir Post
+[Arquivo 045] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 50. Excluir Post
+[Arquivo 046] -> Módulo Sem Nome || 1. Projeto 1 - Construindo um Site Completo do Zero com Flask || 51. Método de Contagem de Posts
+[Arquivo 047] -> Módulo Sem Nome || 2. Projeto 2 - Criação de Sites - Réplica do Pinterest em Flask || 2. Como funciona o Desenvolvimento Web
+[Arquivo 048] -> Módulo Sem Nome || 2. Projeto 2 - Criação de Sites - Réplica do Pinterest em Flask || 18. Ajustando o Layout com um template
+[Arquivo 049] -> Módulo Sem Nome || 2. Projeto 2 - Criação de Sites - Réplica do Pinterest em Flask || 19. Implementanto Layout para todas as páginas
+[Arquivo 050] -> Módulo Sem Nome || 2. Projeto 2 - Criação de Sites - Réplica do Pinterest em Flask || 20. Ajustando a tela de Perfil
+[Arquivo 051] -> Módulo Sem Nome || 2. Projeto 2 - Criação de Sites - Réplica do Pinterest em Flask || 25. Ajuste arquivos efêmeros - imagens sumindo do site
+[Arquivo 052] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 5. Planejamento do Site
+[Arquivo 053] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 6. Iniciando o Projeto e Estrutura Inicial do Django
+[Arquivo 054] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 7. Criando seu 1º app do site
+[Arquivo 055] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 8. Migrations e Criando um SuperUser
+[Arquivo 056] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 9. Conectando um app novo no seu projeto
+[Arquivo 057] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 10. Explicando o arquivo settings
+[Arquivo 058] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 11. Criando o modelo do Filme - Adicionar tabelas no Banco de Dados
+[Arquivo 059] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 12. Adicionando o modelo do Filme no Administrador
+[Arquivo 060] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 13. Configurando pastas static e media
+[Arquivo 061] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 14. Criando uma página do nosso site
+[Arquivo 062] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 15. Criando seus templates e a estrutura de templates do site
+[Arquivo 063] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 16. Criando uma base em html e conectando aos templates
+[Arquivo 064] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 18. Editando a homepage
+[Arquivo 065] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 20. Passando parâmetros para as páginas html - Context
+[Arquivo 066] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 22. Criando uma View para cada Filme
+[Arquivo 067] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 23. Criando links dinâmicos no site
+[Arquivo 068] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 24. Modelo de Episódios e Chave Estrangeira
+[Arquivo 069] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 25. Vídeos em Tela Cheia e Listando Episódios no HTML
+[Arquivo 070] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 26. Passando variáveis personalizadas para as Views
+[Arquivo 071] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 27. Criando nossos Gerenciadores de Contexto - Variáveis para todos os templates
+[Arquivo 072] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 28. Contagem de Visualizações
+[Arquivo 073] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 30. Editando a Página Home dos Filmes
+[Arquivo 074] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 31. Edições Dinâmicas com Javascript e Filme em Destaque
+[Arquivo 075] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 32. Campo de Pesquisa
+[Arquivo 076] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 33. Criando nosso Usuário Personalizado e adaptando o projeto
+[Arquivo 077] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 34. Lista de Filmes Vistos pelo Usuário
+[Arquivo 078] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 35. Registrando Filme Visto de Forma Dinâmica
+[Arquivo 079] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 36. Bloqueio de Páginas apenas para usuários com login
+[Arquivo 080] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 39. Páginas de Login e Logout
+[Arquivo 081] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 40. Criar formulários personalizados e Criar Conta do Usuário
+[Arquivo 082] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 41. Redirecionamento Dinâmico de usuários
+[Arquivo 083] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 42. Editar Perfil e Mudar senha do usuário
+[Arquivo 084] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 47. Deploy do Site - Colocando o site no ar com Heroku
+[Arquivo 085] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 48. Banco de Dados online
+[Arquivo 086] -> Módulo Sem Nome || 3. Projeto 3 - Criação de Sites com Django - Criando uma cópia do Netflix || 49. Arquivos de Mídia em Produção no Heroku com Cloudinary
+[Arquivo 087] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 4. Criando o 1º link do nosso site
+[Arquivo 088] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 5. Carregando a 1ª página - FrontEnd x Backend
+[Arquivo 089] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 6. Criando várias páginas para o site
+[Arquivo 090] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 7. Uma base html - editando páginas de forma dinâmica
+[Arquivo 091] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 8. Arquivos static
+[Arquivo 092] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 10. Barra de navegação e links
+[Arquivo 093] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 11. Modelagem do Banco de Dados
+[Arquivo 094] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 12. Criando uma classe de um modelo no Banco de Dados
+[Arquivo 095] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 13. Criando todos os modelos
+[Arquivo 096] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 14. Migrations e Makemigrations - Edições no Banco de Dados
+[Arquivo 097] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 15. Área admin do Django - superuser e edições no admin
+[Arquivo 098] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 16. Campo de Imagem do Produto
+[Arquivo 099] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 17. Exibindo informações dinâmicas nos templates
+[Arquivo 100] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 18. Media no arquivo settings - Gestão de Imagens no Projeto
+[Arquivo 101] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 19. Criando os banners da homepage
+[Arquivo 102] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 20. Links dos banners - Links internos dinâmicos
+[Arquivo 103] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 21. Como filtrar objetos com o Django
+[Arquivo 104] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 22. Links com parâmetros dinâmicos
+[Arquivo 105] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 23. Filtros avançados em buscas - Loja
+[Arquivo 106] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 24. Tela de Detalhes do Produto - Links com parâmetros no html
+[Arquivo 107] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 25. Tabela de Cores e Aplicações de Queryset avançadas
+[Arquivo 108] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 26. Exibindo as cores de um produto
+[Arquivo 109] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 27. Filtrando tamanhos dos produtos de acordo com a cor selecionada
+[Arquivo 110] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 28. Funcionalidade de adicionar no carrinho - Formulários POST
+[Arquivo 111] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 29. Pegando informações de um formulário enviado
+[Arquivo 112] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 30. Criação do carrinho - Contextos Personalizados
+[Arquivo 113] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 31. Quantidade produto carrinho - usuário com login
+[Arquivo 114] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 32. Itens dentro do carrinho
+[Arquivo 115] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 33. Preço Total de Itens e de Pedidos - Funções Propriedade nos Models
+[Arquivo 116] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 34. Adicionar produto no carrinho
+[Arquivo 117] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 35. Edições de quantidade de produtos dentro do carrinho
+[Arquivo 118] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 36. Remover produtos do carrinho
+[Arquivo 119] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 37. Clientes Anônimos - Permitindo usuários visitantes comprarem
+[Arquivo 120] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 38. Visualização do Carrinho de clientes anônimos
+[Arquivo 121] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 39. Revisão dos views e contextos com ajustes para clientes anônimos
+[Arquivo 122] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 40. Mantendo os Cookies quando fecha o navegador - Cookies Efêmeros x Persistentes
+[Arquivo 123] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 41. Página de checkout e condição usuário autenticado no html
+[Arquivo 124] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 42. Terminando a página de checkout
+[Arquivo 125] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 43. Adicionar endereço - Mesmo view com métodos POST e GET
+[Arquivo 126] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 44. Categorias e Tipos na Barra de Navegação
+[Arquivo 127] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 45. Criação do slug para URLs dinâmicas
+[Arquivo 128] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 46. Filtros de tipo e categoria ao mesmo tempo
+[Arquivo 129] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 47. Filtros da Loja - Construção e Filtro de Preços
+[Arquivo 130] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 48. Filtros de tamanhos - método values_list e suas aplicações
+[Arquivo 131] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 49. Aplicando os filtros da nossa loja
+[Arquivo 132] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 50. Finalizando filtros da loja
+[Arquivo 133] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 51. Itens para ordenar produtos da loja
+[Arquivo 134] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 52. Javascript na página - Enviando parâmetro de URL na ordenação
+[Arquivo 135] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 53. Ordenar produtos - Order By
+[Arquivo 136] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 54. Ordenar produtos mais vendidos - Ordenações Personalizadas
+[Arquivo 137] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 55. Autenticação - Tela de Login e Criar Conta
+[Arquivo 138] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 56. Processo de Login do Usuário
+[Arquivo 139] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 57. Processo de criar conta
+[Arquivo 140] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 58. Logout e Testes de erros de criar conta
+[Arquivo 141] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 59. Login Required - Bloquear páginas apenas para usuários autenticados
+[Arquivo 142] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 60. Esqueci minha senha e Alteração de idioma e hora do admin
+[Arquivo 143] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 61. Meus Pedidos - Pedidos finalizados dos usuários
+[Arquivo 144] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 62. Tela da Minha Conta
+[Arquivo 145] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 63. Alterações de senha e dados pessoais do usuário
+[Arquivo 146] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 64. Finalizar pedido - Erros de finalização
+[Arquivo 147] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 65. Finalizar pedido - Ajustes pré implementação de pagamento
+[Arquivo 148] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 66. Integração com meio de pagamento - Configurações Mercado Pago
+[Arquivo 149] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 67. Criar preferência de pagamento - parâmetros de requisição e de resposta
+[Arquivo 150] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 68. Correções de erros e Conexão API Mercado Pago com as Views
+[Arquivo 151] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 69. Modelo de Pagamentos e Link de retorno do Mercado Pago
+[Arquivo 152] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 70. Finalizando a integração do Mercado Pago com nosso site
+[Arquivo 153] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 71. Finalização de pagamento do pedido
+[Arquivo 154] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 73. Configurando sistema de envio de emails no Django
+[Arquivo 155] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 74. Enviando email de compra bem sucedida
+[Arquivo 156] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 75. Criando uma equipe e página de Gerenciar Loja
+[Arquivo 157] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 76. Funcionalidades de Gerenciar a Loja
+[Arquivo 158] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 77. Exportar CSV do site
+[Arquivo 159] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 78. Importar o FrontEnd para o site
+[Arquivo 160] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 79. FrontEnd - Rodapé e head da página
+[Arquivo 161] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 80. FrontEnd - Barra de navegação
+[Arquivo 162] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 81. FrontEnd - Homepage
+[Arquivo 163] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 82. FrontEnd - Loja - Filtros Laterais
+[Arquivo 164] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 83. FrontEnd - Loja - Ordenação e Produtos
+[Arquivo 165] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 84. FrontEnd - Tela Produto - Informações do Produto
+[Arquivo 166] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 85. FrontEnd - Tela Produto - Produtos Similares
+[Arquivo 167] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 86. FrontEnd - Minha Conta
+[Arquivo 168] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 87. FrontEnd - Fazer Login e Criar Conta
+[Arquivo 169] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 88. FrontEnd - Meus Pedidos
+[Arquivo 170] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 89. FrontEnd - Carrinho
+[Arquivo 171] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 90. FrontEnd - Checkout
+[Arquivo 172] -> Módulo Sem Nome || 4. Projeto 4 - Ecommerce Completo (com Django) || 91. FrontEnd - Finalizando - Gerenciar Loja e Adicionar Endereço
+[Arquivo 173] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 1. Apresentação do Projeto
+[Arquivo 174] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 2. Como funciona o FastAPI - Vantagens
+[Arquivo 175] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 3. Instalação e como iniciar um projeto
+[Arquivo 176] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 4. Requisições, Endpoints e Roteadores
+[Arquivo 177] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 5. Criando rotas assíncronas
+[Arquivo 178] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 6. SQLAlchemy com FastAPI para criação de banco de dados
+[Arquivo 179] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 7. Criação dos models e tabelas do banco
+[Arquivo 180] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 8. Processo de migração de Banco de Dados - alembic
+[Arquivo 181] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 9. Rotas para criação de itens no sistema - usuarios
+[Arquivo 182] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 10. Gerenciamento de sessões do Banco de Dados
+[Arquivo 183] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 11. Criptografia de senhas com passlib e bcrypt
+[Arquivo 184] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 12. Schemas e padronizando entrada e saída de dados dos endpoints
+[Arquivo 185] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 13. Endpoint criar pedido
+[Arquivo 186] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 14. Endpoint de Login
+[Arquivo 187] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 15. Autenticação de Usuário - OAuth2
+[Arquivo 188] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 16. JWT Tokens - Segurança de API
+[Arquivo 189] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 17. Refresh Tokens
+[Arquivo 190] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 18. Bloqueando endpoints apenas para usuários autenticados
+[Arquivo 191] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 19. Autenticação por formulário nos docs do FastAPI
+[Arquivo 192] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 20. Cancelar pedidos e Bloqueio de múltiplas rotas por autenticação
+[Arquivo 193] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 21. Como implementar níveis de acesso no FastAPI
+[Arquivo 194] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 22. Lazyloaded no FastAPI e Exibindo informações do banco nas requisições
+[Arquivo 195] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 23. Endpoint para listar todos os pedidos
+[Arquivo 196] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 24. Adicionar item no pedido
+[Arquivo 197] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 25. Relationship e funções personalizadas nos Models
+[Arquivo 198] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 26. Remover itens pedido e lazyloaded em relationships no banco de dados
+[Arquivo 199] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 27. Ver, Finalizar e Listar Pedidos
+[Arquivo 200] -> Módulo Sem Nome || 5. Projeto 5 - FastAPI - API com Backend Completo - Projeto Delivery || 28. Schemas para respostas de endpoint - Padronização de Lista de Pedidos
