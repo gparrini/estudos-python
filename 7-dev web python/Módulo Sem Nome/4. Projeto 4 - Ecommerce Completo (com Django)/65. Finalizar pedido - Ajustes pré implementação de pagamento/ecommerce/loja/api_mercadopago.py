@@ -1,0 +1,4 @@
+import mercadopago
+
+public_key = "TEST-2cb4e79a-a12f-4286-b708-572b4650e3a6"
+token = "TEST-6244779549547304-011715-156e0551b52ade4d706a7687e9c700fb-144516549"
